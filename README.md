@@ -16,6 +16,8 @@ Grupo: 8S2        Programación web PHP/MVC
 21 de marzo 2024
 
 
+
+
 Tabla de contenido
 
 RESUMEN:	1
@@ -63,6 +65,7 @@ El modelo representa la lógica de negocio y los datos subyacentes de la aplicac
 La vista es la interfaz de usuario que presenta la información al usuario final. Es responsable de mostrar los datos proporcionados por el modelo de una manera comprensible y atractiva. Por ejemplo, en una aplicación de redes sociales, la vista podría ser la página de perfil de un usuario, que muestra su información personal, sus publicaciones y sus amigos de una manera visualmente atractiva.
 
 El controlador actúa como intermediario entre el modelo y la vista. Es responsable de recibir las solicitudes del usuario desde la vista, procesarlas utilizando la lógica de negocio apropiada en el modelo y actualizar la vista en consecuencia. Por ejemplo, en una aplicación de comercio electrónico, el controlador podría manejar las solicitudes de agregar productos al carrito de compras, calcular el total de la compra y actualizar la vista del carrito de compras con los nuevos datos.
+![image](https://github.com/Alejandro20020/PROYECTO/assets/168162941/43f69e56-a7cc-4f1d-ac67-160bfb1e5449)
 
 La separación de responsabilidades entre el modelo, la vista y el controlador proporciona una serie de beneficios significativos en el desarrollo de software. En primer lugar, facilita la modularidad y la reutilización del código, ya que cada componente puede ser desarrollado y probado de forma independiente. Esto permite a los desarrolladores trabajar en diferentes partes de la aplicación simultáneamente, lo que acelera el proceso de desarrollo.
 
@@ -229,6 +232,7 @@ En esta carpeta tenemos nuestra conexión a nuestra base de datos
 
 DIAGRAMAS
 
+![image](https://github.com/Alejandro20020/PROYECTO/assets/168162941/48c51e9a-6469-41a7-831d-28e8932be9bc)
 
 
 

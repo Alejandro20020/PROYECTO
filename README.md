@@ -179,16 +179,19 @@ El alcance del proyecto incluirá el diseño, desarrollo e implementación del s
 CUERPO/ DESARROLLO
 
 ORDEN MVC
+![image](https://github.com/Alejandro20020/PROYECTO/assets/168162941/36ec94b5-c839-4940-9d0a-bf88ffbc54bf)
 
 INDEX
 
 En nuestro index va a ser el principal, ya que este manda a traer a los controladores y a los demás archivos:
+![image](https://github.com/Alejandro20020/PROYECTO/assets/168162941/36deed87-3f72-49cd-9d27-568eb66f55ff)
 
 
 
 
 En esta parte veremos el código en donde manda a traer todos los archivos:
 
+![image](https://github.com/Alejandro20020/PROYECTO/assets/168162941/b8747a39-89d8-423c-a092-bdc05700d755)
 
 
 MODELO

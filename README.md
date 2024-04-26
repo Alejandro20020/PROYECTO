@@ -245,7 +245,7 @@ CONCLUSIONES
 En resumen, el proyecto de punto de venta implementado con el patrón de arquitectura Modelo-Vista-Controlador (MVC) resultó ser una elección acertada. La división clara entre la lógica de negocio, la presentación y el control del flujo de la aplicación facilitó su desarrollo, mantenimiento y escalabilidad
 
 
-BIBLIOGRAFIAS
+REFERENCIAS
 
 Victor. (2019, 3 abril). MVC (Modelo Vista Controlador) en PHP nativo. Victor Robles. https://victorroblesweb.es/2013/11/18/tutorial-mvc-en-php-nativo/
 

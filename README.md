@@ -136,6 +136,15 @@ INTRODUCCION
 
 En el ámbito del comercio minorista, la gestión eficiente de un punto de venta es esencial para el éxito y la rentabilidad del negocio. La adopción de tecnologías modernas y sistemas informáticos especializados se ha convertido en un requisito fundamental para competir en un mercado cada vez más exigente y dinámico. En este contexto, se presenta el proyecto de desarrollo de un sistema de punto de venta basado en la arquitectura Modelo-Vista-Controlador (MVC), diseñado para optimizar la gestión de ventas, inventario y operaciones diarias en establecimientos minoristas.
 
+INSTALACION
+Páso 1: Insatalar Xampp en tu computadora, sigue los pasos que pide el instalador.
+paso 2: Una vez uniciado Xampp, incia Apache y MySQL, esto abrira un puerto para que puedas ejecutar tu aplicacion.
+Paso 3: Copia tu carpeta de tu aplicacion en la carpeta de Xampp localizada en tu disco local (C), busca la carpeta Xampp y luego en la carpeta de htdocs.
+Paso 4: Una vez copiada la carpeta dirigete a tu navegador y escribe lo siguiente : http://localhost/phpmyadmin esto te dirigira a la base de datos de MySQL.
+Paso 5: crea una nueva base de datos llamada Base_Suplementos.
+Paso 6: crea las tablas necesarias como Usuarios, Productos.
+Paso 7: escribe la siguiente direccion en una nueva pestaña en tu navegador http://localhost/"nombre del tu proyecto".
+Paso 8: el proyecto debe rederizarse y mostrar la pagina de crear un usario nuevo.
 Contexto y Justificación
 
 Los establecimientos minoristas enfrentan una serie de desafíos operativos y de gestión, que van desde el seguimiento preciso del inventario hasta la gestión eficiente de las transacciones de ventas y la fidelización de los clientes. Con el crecimiento del comercio electrónico y la demanda de una experiencia de compra más fluida y personalizada, es imperativo que los minoristas adopten soluciones tecnológicas avanzadas que les permitan competir en un mercado en constante evolución.
